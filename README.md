@@ -2,6 +2,9 @@
 
 Welcome to my data analysis project focused on the **S\&P 500 companies headquartered in the United States**. This analysis filters and refines data from a broader dataset to present insights specifically about American-based corporations listed in the S\&P 500 index.
 
+![S P 500 Excel sheet](https://github.com/user-attachments/assets/ec024b60-fe1a-4784-b89d-f12a631d7202)
+
+
 ## 📊 Overview
 
 This project demonstrates a complete data wrangling and analysis pipeline—from **data sourcing** to **cleaning**, **transformation**, and **filtering**—with the goal of isolating and exploring **U.S.-based companies** in the S\&P 500 index.
